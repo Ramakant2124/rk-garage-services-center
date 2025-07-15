@@ -2,6 +2,7 @@
 ![Picsart_25-07-15_09-31-59-766](https://github.com/user-attachments/assets/80fdbd15-d4d3-4f37-ae7e-3391dec94314)
 
 Hello Developers!
+
 This is RK-GARAGE-SERVICES-CENTER project built in Python Django Framework and HTML/CSS & Javascript. The project has been built by taking reference from other Project. 
 
 **Only For Education Purpose** 
@@ -13,7 +14,9 @@ An garage service center is a digital platform that allows a hub for both mechan
 CHANGES REQUIRED FOR CONTACT US PAGE:
 In settins.py file, You have to give your email and password
 EMAIL_HOST_USER = 'youremail@gmail.com'
+
 EMAIL_HOST_PASSWORD = 'your email password'
+
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 ## Project Setup :  
@@ -25,6 +28,7 @@ https://code.visualstudio.com/download
 
 ### step 3 : Install Django 
 >pip install django==3.0.5
+
 >pip install django-widget-tweaks
 
 ### step 4 : Install all the Packages or Modules inside requirements.txt file
@@ -32,6 +36,7 @@ https://code.visualstudio.com/download
 
 ### step 5 : Now make Migrations and Migrate for saving the changes:
 >python manage.py migrate
+
 >python manage.py makemigrations
 
 ### step 6 : Now Finally you can run your web application:
@@ -112,4 +117,4 @@ customer_mechanic_cards.html file change image admin path in customer and mechan
 ### Mechanic feedback Page
 <img width="1920" height="1080" alt="Screenshot 2025-07-14 204218" src="https://github.com/user-attachments/assets/66a69f94-5e49-48e6-a72b-d6a56de8b5dd" />
 
-## Ramakant Chaudhari
+**Ramakant Chaudhari**
