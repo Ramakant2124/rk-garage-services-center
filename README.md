@@ -13,6 +13,7 @@ An garage service center is a digital platform that allows a hub for both mechan
 >py manage.py createsuperuser
 CHANGES REQUIRED FOR CONTACT US PAGE:
 In settins.py file, You have to give your email and password
+
 EMAIL_HOST_USER = 'youremail@gmail.com'
 
 EMAIL_HOST_PASSWORD = 'your email password'
