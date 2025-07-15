@@ -48,9 +48,9 @@ https://code.visualstudio.com/download
 http://127.0.0.1:8000/
 
 ### Information :
-index.html file change image bg4 path
-mechanicsclick.html file change image mbg4 path
-customerclick.html file change  image cbg4 path
+index.html file change image bg4 path ||
+mechanicsclick.html file change image mbg4 path ||
+customerclick.html file change  image cbg4 path ||
 customer_mechanic_cards.html file change image admin path in customer and mechanic path in mechanic
 
 ## SCREENSHOTS
@@ -62,6 +62,7 @@ customer_mechanic_cards.html file change image admin path in customer and mechan
 
 ### Customer page
 <img width="1920" height="1080" alt="Screenshot 2025-07-14 204037" src="https://github.com/user-attachments/assets/87003f84-9409-417a-a698-7a40cb45c022" />
+
 ### Contact us page 
 <img width="1920" height="1080" alt="Screenshot 2025-07-14 204327" src="https://github.com/user-attachments/assets/086aa589-2e3c-4a0b-81ac-03f20b9898be" />
 
