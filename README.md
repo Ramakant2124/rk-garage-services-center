@@ -1,5 +1,6 @@
-# VEHICLE SERVICE MANAGEMENT
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+# RK-GARAGE-SERVICES-CENTER
+![Picsart_25-07-15_09-31-59-766](https://github.com/user-attachments/assets/80fdbd15-d4d3-4f37-ae7e-3391dec94314)
+
 ---
 ## SCREENSHOTS
 ### Home Page
