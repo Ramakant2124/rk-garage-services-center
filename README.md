@@ -11,6 +11,7 @@ This is RK-GARAGE-SERVICES-CENTER project built in Python Django Framework and H
 An garage service center is a digital platform that allows a hub for both mechanics and customers needing vehicle repairs or maintenance. It provides a space for mechanics to work on cars and a point of contact for customers to request services, receive quotes, and manage their vehicle's needs.
 
 >py manage.py createsuperuser
+
 CHANGES REQUIRED FOR CONTACT US PAGE:
 In settins.py file, You have to give your email and password
 
