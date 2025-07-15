@@ -4,16 +4,17 @@
 ---
 ## SCREENSHOTS
 ### Home Page
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/home.png?raw=true)
-### Admin Dashboard Dark theme
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/admin_dark.png?raw=true)
-### Admin Dashboard Light theme
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/admin_light.png?raw=true)
+<img width="1920" height="1080" alt="Screenshot 2025-07-14 203757" src="https://github.com/user-attachments/assets/88c13dc8-b01b-46e7-831b-7c5ae3cda225" />
+
 ### Mechanic Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/mechanic_dashboard.png?raw=true)
+<img width="1920" height="1080" alt="Screenshot 2025-07-14 204108" src="https://github.com/user-attachments/assets/ac715d24-8316-4f15-93e1-370e9b72a7f6" />
+
 ### Customer Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/vehicleservicemanagement/blob/master/static/screenshots/customer_dashboard.png?raw=true)
----
+<img width="1920" height="1080" alt="Screenshot 2025-07-14 204037" src="https://github.com/user-attachments/assets/87003f84-9409-417a-a698-7a40cb45c022" />
+
+### Admin Dashboard 
+<img width="1920" height="1080" alt="Screenshot 2025-07-14 204344" src="https://github.com/user-attachments/assets/4740d255-8e52-4092-8c95-01bdb99d5032" />
+
 ## FUNCTIONS
 ## Customer
 - customer will signup and login into system
