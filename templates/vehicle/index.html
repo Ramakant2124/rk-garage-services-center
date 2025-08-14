@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+  <style>
+    /* Full page background image */
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('{% static "images\bg5.png" %}');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+      font-family: sans-serif;
+      color: white;
+    }
+
+    /* Transparent navbar fix */
+    .navbar {
+      background-color: rgba(0, 0, 0, 0.6) !important;
+    }
+
+    /* Transparent jumbotron */
+    .jumbotron {
+      background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+      margin: 0;
+      padding: 6rem 2rem;
+      text-align: center;
+      color: white;
+    }
+
+    marquee img {
+      margin: 0 10px;
+    }
+
+    /* Optional: style for card section background transparency */
+    .card {
+      background-color: rgba(255, 255, 255, 0.1); /* Slightly transparent white */
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+
+  {% include "vehicle/navbar.html" %}
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+  
+
+  <marquee behavior="scroll" direction="left">
+    <img src="{% static 'images/suzuki.png' %}" width="120" height="80" alt="suzuki" />
+     <img src="{% static 'images/rolls.png' %}" width="120" height="80" alt="rolls" />
+    <img src="{% static 'images/ferrari.png' %}" width="120" height="80" alt="ferrari" />
+    <img src="{% static 'images/ford.png' %}" width="120" height="80" alt="ford" />
+    <img src="{% static 'images/lambo.png' %}" width="120" height="80" alt="lambo" />
+    <img src="{% static 'images/mahindra.png' %}" width="120" height="80" alt="mahindra" />
+    <img src="{% static 'images/tvs.png' %}" width="120" height="80" alt="tvs" />
+    <img src="{% static 'images/tata.png' %}" width="120" height="80" alt="tata" />
+    <img src="{% static 'images/hero.png' %}" width="120" height="80" alt="hero" />
+   
+    
+  </marquee>
+
+  <br><br>
+
+  {% include "vehicle/customer_mechanic_cards.html" %}
+  <br><br><br><br><br>
+  {% include "vehicle/footer.html" %}
+
+</body>
+
+</html>

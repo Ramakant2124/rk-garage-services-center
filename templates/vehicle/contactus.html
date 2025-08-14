@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<head>
+  <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <style>
+    body {
+      background:linear-gradient(to right, #e3f7ffff, #00b7efff);
+      background-size: cover;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .transparent-box {
+      background-color: rgba(255, 255, 255, 0.8); /* white with transparency */
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+      width: 60%;
+      margin-top: 30px;
+    }
+
+    h3.alert {
+      background-color: rgba(40, 167, 69, 0.8); /* Adjust alert bg transparency */
+      color: #fff;
+      padding: 15px;
+      border-radius: 10px;
+    }
+
+    marquee img {
+      margin: 10px;
+    }
+  </style>
+</head>
+
+</head>
+
+<body>
+
+  {% include "vehicle/navbar.html" %}
+  <br><br>
+
+  <center>
+    <h3 class='alert alert-success'>Send Us Your Valuable Feedback !</h3>
+
+    <form method="POST">
+      <!-- Very Important csrf Token -->
+      {% csrf_token %}
+      <div class="form-group">
+        <p>
+        <h3>{{ form.as_p }}</h3>
+        </p>
+        <br>
+        <input type="submit" value="Send Message" class='btn btn-primary btn-lg'>
+      </div>
+    </form>
+  </center>
+  <br> <br> <br> <br> <br> <br>
+  {% include "vehicle/footer.html" %}
+</body>
+
+</html>
