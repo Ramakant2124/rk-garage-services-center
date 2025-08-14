@@ -1,5 +1,5 @@
 # RK-GARAGE-SERVICES-CENTER
-![Picsart_25-07-15_09-31-59-766](https://github.com/user-attachments/assets/80fdbd15-d4d3-4f37-ae7e-3391dec94314)
+
 
 Hello Developers!
 
@@ -55,69 +55,70 @@ customer_mechanic_cards.html file change image admin path in customer and mechan
 
 ## SCREENSHOTS
 ### Home Page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 203757" src="https://github.com/user-attachments/assets/88c13dc8-b01b-46e7-831b-7c5ae3cda225" />
+<img width="1888" height="913" alt="image" src="https://github.com/user-attachments/assets/dc509bb2-ec9d-478f-84db-ea36d526aeca" />
+
 
 ### Mechanic page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204108" src="https://github.com/user-attachments/assets/ac715d24-8316-4f15-93e1-370e9b72a7f6" />
+<img width="1891" height="912" alt="image" src="https://github.com/user-attachments/assets/e87cb177-0aa6-4726-bb0d-53cf76e4a4ce" />
 
 ### Customer page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204037" src="https://github.com/user-attachments/assets/87003f84-9409-417a-a698-7a40cb45c022" />
+<img width="1885" height="920" alt="image" src="https://github.com/user-attachments/assets/6712fe27-add8-4601-9fff-e6a4370ef843" />
 
 ### Contact us page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204327" src="https://github.com/user-attachments/assets/086aa589-2e3c-4a0b-81ac-03f20b9898be" />
+<img width="1892" height="923" alt="image" src="https://github.com/user-attachments/assets/0d13612a-6706-4078-874a-efec9056d12d" />
 
 ### About us page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204312" src="https://github.com/user-attachments/assets/9b6197b9-0079-41e3-9329-c953bcc81491" />
+<img width="1906" height="922" alt="image" src="https://github.com/user-attachments/assets/fa2cd2cf-bd63-4015-aeaf-5bbf9fca96fd" />
 
 ### Admin login
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204344" src="https://github.com/user-attachments/assets/4740d255-8e52-4092-8c95-01bdb99d5032" />
+<img width="1897" height="920" alt="image" src="https://github.com/user-attachments/assets/231807c1-5b5e-44aa-a734-72fad10106bf" />
 
 ### Admin Dashboard 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204359" src="https://github.com/user-attachments/assets/00050ad5-4f3d-4d23-8d21-f3c9cfc196db" />
+<img width="1911" height="913" alt="image" src="https://github.com/user-attachments/assets/b591fbaa-e214-495b-b599-97a6f54a58d7" />
 
 ### Admin customer page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204409" src="https://github.com/user-attachments/assets/7074c9a9-8e0a-4b70-ab0a-4fbdc4b3befc" />
+<img width="1913" height="926" alt="image" src="https://github.com/user-attachments/assets/bd0b6ff7-3fe4-4051-91b1-0bd74ebd1517" />
 
 ### Admin mechanic page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204425" src="https://github.com/user-attachments/assets/9641af72-857b-4e34-8cd1-28218404fa45" />
+<img width="1918" height="926" alt="image" src="https://github.com/user-attachments/assets/f44862a2-67bc-4155-b583-610b2acae61d" />
 
 ### Admin Request Page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204440" src="https://github.com/user-attachments/assets/01845059-9e32-4551-abdb-ccc3681cbf89" />
+<img width="1916" height="923" alt="image" src="https://github.com/user-attachments/assets/c0c04759-609c-4eed-bc15-44340fe47c9e" />
 
 ### Admin Report page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204517" src="https://github.com/user-attachments/assets/d74a69cd-219c-47b5-91e7-6c878c62a155" />
+<img width="1909" height="921" alt="image" src="https://github.com/user-attachments/assets/2fb30674-71da-4a54-a7c1-8b0e5a744049" />
 
 ### Admin  Feedback page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204530" src="https://github.com/user-attachments/assets/680e2ff5-8617-49d8-8493-a6783c8dfff8" />
+<img width="1916" height="929" alt="image" src="https://github.com/user-attachments/assets/c972ecd1-1844-423c-a6f1-51d5d850f42f" />
 
 ### Customer login page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204250" src="https://github.com/user-attachments/assets/4e1c973c-67c6-4294-8b3c-f4219f448eba" />
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/bcdc0036-94d2-4ec5-8c9d-a6caefda2f41" />
 
 ### Coustomer Dashboard 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 203937" src="https://github.com/user-attachments/assets/fd4dbf36-793a-4606-a100-1d1d5b13a080" />
+<img width="1915" height="922" alt="image" src="https://github.com/user-attachments/assets/7a311c5a-377a-46f2-b08a-3caf8ab0af6b" />
 
 ### Customer Request Page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 203951" src="https://github.com/user-attachments/assets/9c0d30f9-99c5-4bd9-b1ef-ec81e29f3ee2" />
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/6a98f994-f10b-45bc-9ec0-f60f6e42464b" />
 
 ### Customer feedback page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204008" src="https://github.com/user-attachments/assets/d76a27e9-f61f-469d-9bf9-95135721cadc" />
+<img width="1913" height="937" alt="image" src="https://github.com/user-attachments/assets/70382ac8-0187-4f9c-b350-72023b29d84f" />
 
 ### Mechanic Login page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204239" src="https://github.com/user-attachments/assets/f5dfa039-302d-48f3-af01-474816672ff6" />
+<img width="1901" height="924" alt="image" src="https://github.com/user-attachments/assets/9a415455-33c5-407f-a1cc-3fabeaaa6353" />
 
 ### Mechanic Dashboard 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204138" src="https://github.com/user-attachments/assets/5d0903bc-ec92-4046-8487-7fdbbf6bd9e3" />
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/3a61657c-e56a-4b2a-8874-ccf31f7dcb17" />
 
 ### Mechanic vehicle repair page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204153" src="https://github.com/user-attachments/assets/33ba8536-1abd-499c-8fa2-761a11dc2354" />
+<img width="1914" height="926" alt="image" src="https://github.com/user-attachments/assets/952fe084-463d-41b6-b23e-708eed45c288" />
 
 ### Mechanic salary page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204203" src="https://github.com/user-attachments/assets/b06f44b6-1503-4648-80e7-268bbdcf689b" />
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/3115fd21-c24e-4af6-9d92-1f3794d7786e" />
 
 ### Mechanic Attendance page 
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204211" src="https://github.com/user-attachments/assets/81e60d66-c218-4400-8a50-017ee076372e" />
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/beb1730e-0bd1-4d84-9525-54cd098168bd" />
 
 ### Mechanic feedback Page
-<img width="1920" height="1080" alt="Screenshot 2025-07-14 204218" src="https://github.com/user-attachments/assets/66a69f94-5e49-48e6-a72b-d6a56de8b5dd" />
+<img width="1912" height="930" alt="image" src="https://github.com/user-attachments/assets/f7bbccce-bb24-4647-9f0e-d4c9ce2ebd7f" />
 
 **Ramakant Chaudhari**
